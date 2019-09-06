@@ -1,0 +1,12 @@
+:global(.ui) {
+    :local(.comment) {
+        overflow: auto;
+    }
+}
+
+:local(.status) {
+    display: block;
+    color: rgba(0,0,0,.7);
+    font-size: .875em;
+    font-style: italic;
+}

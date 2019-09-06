@@ -1,0 +1,10 @@
+:global(.ui.modal) {
+    >:global(.header):local(.header) {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+:local(.statusIcon) {
+    margin-right: 10px;
+}

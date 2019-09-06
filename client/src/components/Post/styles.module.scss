@@ -1,0 +1,8 @@
+:global(.ui.basic.label):local(.toolbarBtn) {
+    border: none
+}
+
+:global(.icon):local(.controlBtn) {
+    margin: 0 5px;
+    float: right;
+}
